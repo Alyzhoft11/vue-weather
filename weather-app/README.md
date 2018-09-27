@@ -1,5 +1,7 @@
 # weather-app
 
+## Vue Weather App using DarkSky API
+
 ## Project setup
 ```
 npm install
